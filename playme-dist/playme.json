@@ -1,0 +1,8 @@
+{
+  "is_origin": false,
+  "ipns": "",
+  "ipfs_api_host": "localhost",
+  "ipfs_api_port": "5001",
+  "ipfs_res_url": "http://127.0.0.1:8788/ipfs/",
+  "api_host": "http://139.198.177.100:4466"
+}
