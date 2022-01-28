@@ -19,7 +19,7 @@
     "ipfs-http-client": "^30.1.4",
     "peer-id": "^0.12.2",
     "prisma-client-lib": "^1.30.4",
-    "simple-get": "^3.0.3",
+    "simple-get": "^4.0.1",
     "toiletdb": "^2.0.0",
     "videostream": "^3.2.0",
     "vue": "^2.6.6"
